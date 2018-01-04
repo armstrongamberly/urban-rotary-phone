@@ -1,5 +1,5 @@
 
-body {
+.body {
     background-color: powderblue;
     text-align: center;
 }
@@ -13,6 +13,10 @@ p {
     font-size: 75%;
 }
 
+body {
+	text-align: center;
+}
+
 .image-border {
 	border: 15px solid green;
 	border-radius: 50%;
@@ -23,6 +27,15 @@ p {
 	border-radius: 75%;
 }
 
+.image-border-3 {
+	border: 15px solid teal;
+	border-radius: 90%;
+}
+
 .smaller-image {
 	width: 400px;
+}
+
+.larger-image {
+	width: 800px;
 }
