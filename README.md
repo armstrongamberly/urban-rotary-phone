@@ -1,2 +1,4 @@
 # urban-rotary-phone
-some html and css
+practicing some html and CSS.
+
+clone and open index.htm in browser to begin.
