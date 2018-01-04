@@ -6,7 +6,17 @@ body {
 h1 {
 	font-family: 'Pacifico', Cursive;
     color: red;
+    font-size: 459%;
 }
 p {
     color: blue;
+}
+
+.image-border {
+	border: 15px solid green;
+	border-radius: 50%;
+}
+
+.smaller-image {
+	width: 400px;
 }
