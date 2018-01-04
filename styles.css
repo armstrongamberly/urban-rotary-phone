@@ -2,7 +2,7 @@
 .body {
     text-align: center;
     border-style: solid;
-    border-color: black;
+    border-color: silver;
     border-width: 5px;
 }
 
@@ -28,6 +28,7 @@
 p {
     color: blue;
     font-size: 75%;
+    font-family: sans-serif;
 }
 
 body {
@@ -35,9 +36,8 @@ body {
 }
 
 .image-border {
-	border: 15px solid green;
+	border: 15px solid pink;
 	border-radius: 50%;
-	margin: 10px;
 }
 
 .image-border-2 {
@@ -47,7 +47,7 @@ body {
 
 .image-border-3 {
 	border: 15px solid teal;
-	border-radius: 90%;
+	border-radius: 20%;
 }
 
 .smaller-image {
