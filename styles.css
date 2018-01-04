@@ -1,13 +1,30 @@
 
 .body {
-    background-color: powderblue;
     text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
 }
-h1 {
+
+.outside-box {
+	background-color: white;
+	padding: 10px;
+
+}
+.title-box {
 	font-family: 'Pacifico', Cursive;
     color: red;
     font-size: 459%;
+    padding: 20px;
+    margin: -15px;
+    background: powderblue;
 }
+
+.image-box {
+	padding: 20px;
+	margin: 20px;
+}
+
 p {
     color: blue;
     font-size: 75%;
@@ -20,6 +37,7 @@ body {
 .image-border {
 	border: 15px solid green;
 	border-radius: 50%;
+	margin: 10px;
 }
 
 .image-border-2 {
@@ -39,3 +57,4 @@ body {
 .larger-image {
 	width: 800px;
 }
+
