@@ -27,8 +27,9 @@
 
 p {
     color: blue;
-    font-size: 75%;
+    font-size: 85%;
     font-family: sans-serif;
+    font-weight: bold;
 }
 
 body {
@@ -56,5 +57,9 @@ body {
 
 .larger-image {
 	width: 800px;
+}
+
+.link {
+	color: ;
 }
 
